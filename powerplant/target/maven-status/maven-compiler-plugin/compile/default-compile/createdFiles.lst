@@ -1,0 +1,9 @@
+com\vpp\powerplant\entity\Battery.class
+com\vpp\powerplant\PowerplantApplication.class
+com\vpp\powerplant\entity\BatteryResponse.class
+com\vpp\powerplant\Service\PowerPlantService.class
+com\vpp\powerplant\Config\ExceptionConfig.class
+com\vpp\powerplant\controller\PowerController.class
+com\vpp\powerplant\entity\BatteryRequestBody.class
+com\vpp\powerplant\Exception\NoRequestFoundException.class
+com\vpp\powerplant\Repo\PowerPlantRepo.class
